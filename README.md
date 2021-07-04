@@ -20,5 +20,5 @@
 ![C++](https://img.shields.io/badge/Language-C++-brightgreen?style=flat&logo=C++&logoColor=white)
 
 # Github Stats
-![Github Stats](https://github-readme-stats.vercel.app/api?username=tert0&theme=vue-dark&count_private=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=tert0&theme=vue-dark&count_private=true&include_all_commits=true)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tert0&theme=vue-dark&layout=compact&langs_count=10&hide=swift,kotlin,Objective-C)
