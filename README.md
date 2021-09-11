@@ -18,6 +18,7 @@
 ![RustLang](https://img.shields.io/badge/Language-Rust-brightgreen?style=flat&logo=Rust&logoColor=white)
 ![C](https://img.shields.io/badge/Language-C-brightgreen?style=flat&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/Language-C++-brightgreen?style=flat&logo=C++&logoColor=white)
+![GoLang](https://img.shields.io/badge/Language-Go-brightgreen?style=flat&logo=Go&logoColor=white)
 
 # Github Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=tert0&theme=vue-dark&count_private=true)
